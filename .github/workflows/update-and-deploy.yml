@@ -1,0 +1,79 @@
+name: Update data & deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 1 * * *' # daily, 06:47 IST
+  workflow_dispatch:
+    inputs:
+      affidavits:
+        description: Re-scrape affidavit data from MyNeta
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
+      # Affidavits change rarely: refresh weekly (Mondays), on request, or when no data exists yet.
+      - name: Fetch affidavits (MyNeta / ADR)
+        continue-on-error: true
+        run: |
+          if { [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.affidavits }}" = "true" ]; } \
+            || { [ "${{ github.event_name }}" = "schedule" ] && [ "$(date -u +%u)" = "1" ]; } \
+            || ! grep -q '"id"' public/data/politicians.json; then
+            npm run fetch:affidavits
+          fi
+
+      # News refreshes daily; plain code pushes skip it unless there are no headlines yet.
+      - name: Fetch news (RSS)
+        continue-on-error: true
+        run: |
+          if [ "${{ github.event_name }}" != "push" ] || ! grep -q '"title"' public/data/headlines.json; then
+            npm run fetch:news
+          fi
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then echo "No data changes"; exit 0; fi
+          git commit -m "data: refresh $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: update-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
