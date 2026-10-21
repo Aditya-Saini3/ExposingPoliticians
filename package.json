@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:fresh": "npm run fetch:affidavits; npm run fetch:news; vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "fetch:affidavits": "node scripts/fetch-affidavits.mjs",

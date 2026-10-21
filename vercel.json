@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build:fresh",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}

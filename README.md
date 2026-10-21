@@ -46,6 +46,9 @@ npm test              # parser and categorisation tests
 3. The *Update data & deploy* workflow fetches data on first run, then refreshes news daily and affidavits weekly. Run it
    manually from the **Actions** tab any time.
 
+**Vercel:** import the repo; `vercel.json` runs `npm run build:fresh`, which fetches fresh data on every build, so each
+push (including the Action's data commits) redeploys with current data.
+
 To track state assemblies, add their MyNeta slug (e.g. `Maharashtra2024`) to `ELECTIONS` in `scripts/config.mjs`.
 
 ## Responsible use
