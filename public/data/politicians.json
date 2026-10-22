@@ -1,1 +1,113 @@
-{ "generatedAt": null, "sources": [], "politicians": [] }
+{
+ "generatedAt": "2026-10-22T06:09:41.141Z",
+ "sources": [
+  {
+   "name": "MyNeta / ADR — Lok Sabha 2024",
+   "url": "https://myneta.info/LokSabha2024/"
+  }
+ ],
+ "politicians": [
+  {
+   "id": "LokSabha2024-9673",
+   "name": "",
+   "party": "INC",
+   "constituency": "Wayanad : Bye Election On 13-11-2024",
+   "state": "Kerala",
+   "house": "Lok Sabha",
+   "election": "Lok Sabha 2024",
+   "education": "Graduate",
+   "assets": "Rs 77,54,77,352",
+   "age": 52,
+   "pendingCases": 3,
+   "convictedCases": 0,
+   "charges": [
+    {
+     "count": 1,
+     "description": "Cheating and dishonestly inducing delivery of property",
+     "code": "IPC",
+     "section": "420",
+     "category": "corruption",
+     "serious": true
+    },
+    {
+     "count": 1,
+     "description": "Forgery for purpose of harming reputation",
+     "code": "IPC",
+     "section": "469",
+     "category": "corruption",
+     "serious": true
+    },
+    {
+     "count": 1,
+     "description": "Disobedience to order duly promulgated by public servant",
+     "code": "IPC",
+     "section": "188",
+     "category": "public_order",
+     "serious": false
+    },
+    {
+     "count": 1,
+     "description": "Negligent act likely to spread infection of disease dangerous to life",
+     "code": "IPC",
+     "section": "269",
+     "category": "other",
+     "serious": false
+    },
+    {
+     "count": 1,
+     "description": "Malignant act likely to spread infection of disease dangerous to life",
+     "code": "IPC",
+     "section": "270",
+     "category": "other",
+     "serious": false
+    }
+   ],
+   "sourceUrl": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9673",
+   "categories": {
+    "corruption": 2,
+    "public_order": 1,
+    "other": 2
+   },
+   "seriousCharges": 2,
+   "totalCharges": 5
+  },
+  {
+   "id": "LokSabha2024-9708",
+   "name": "",
+   "party": "BJP",
+   "constituency": "Nagaon : Bye Election On 06-10-2026",
+   "state": "Assam",
+   "house": "Lok Sabha",
+   "election": "Lok Sabha 2024",
+   "education": "Graduate",
+   "assets": "Rs 3,88,81,516",
+   "age": 59,
+   "pendingCases": 0,
+   "convictedCases": 0,
+   "charges": [],
+   "sourceUrl": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9708",
+   "categories": {},
+   "seriousCharges": 0,
+   "totalCharges": 0
+  },
+  {
+   "id": "LokSabha2024-9677",
+   "name": "",
+   "party": "INC",
+   "constituency": "Nanded : Bye Election On 20-11-2024",
+   "state": "Maharashtra",
+   "house": "Lok Sabha",
+   "election": "Lok Sabha 2024",
+   "education": "Post Graduate",
+   "assets": "Rs 5,55,49,568",
+   "age": 44,
+   "pendingCases": 0,
+   "convictedCases": 0,
+   "charges": [],
+   "sourceUrl": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=9677",
+   "categories": {},
+   "seriousCharges": 0,
+   "totalCharges": 0
+  }
+ ]
+}

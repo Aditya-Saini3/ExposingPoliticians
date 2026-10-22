@@ -1,1 +1,55 @@
-{ "updatedAt": null, "counts": {}, "items": [] }
+{
+ "updatedAt": "2026-10-22T06:09:49.720Z",
+ "counts": {
+  "LokSabha2024-9708": 29,
+  "LokSabha2024-9677": 29,
+  "LokSabha2024-9673": 60
+ },
+ "items": [
+  {
+   "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
+   "link": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-22T05:58:44.000Z",
+   "tags": [
+    "court"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "A Mangaluru doctor dated a fellow doctor for 7 years, they split over caste differences, she filed a case",
+   "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxONk1uQk90cTUyWng1Y0N6UTNreG1kc005bkhnOXpMaXhXMFlmalNUZWR2VGdvTHc4X21CdXlnTTlHSzNkdUlpMXFjUkpmWUlCWHVNQkd1QWZ1VUpCdzBFS3ZYeElkMjZjZjl1TDBpdHJCMEVtSlRWaDFocktQdGxka2NvVl9rdnFMTGJSYzNkbUxONFljV2JpTkJydHZaaXQwNHpzZkloY1VJWHFGTU1TdUdZSGNWdVRyOG9fa0UxVjd6NGNUb3BDTlpKZXVmTzRadDNnRVM5cWFYRklZOWgwNTRoSjRBbE90ZW1rcmQtdzFGRm55RXFWUWZYcE9jV3JrdGFmSmZ0aE5EVTBPVjJHVlVteWNOaDYtVHdaaG9GZGI5aWVTWVFzTU1zallkaW9ZV0lUMjktYjVDNGprYmotZ2IwcXhfNUNnRGRtY1FmZ0FqdDV1OG5lX0ZpN3AtNUxucjF3MnhxMWUwNVBpdnFQNUNKTmxudmtnNnVEN1lmSkc5cEtvOUlsYm40aFgtejBhUWFnZ1hvQmljQy15Sm5DaGxUTUNWN055STJ5WjZoZVRWSHdJYzVZY0g2YVBZYTVEQWVQaXJ6b2EwNVBtU2NnaVBPRUJtbTBuakHSAd8DQVVfeXFMTWt6TEgzT091Y0pBSGY4OWJLdUJZMUdQbURoZEtpclVWcUQ2R1RNdmxVSmJPRlB0QmZIUnZTVUhEQU9QWlZMN0hzRU5hNFRPbUdoSUcxVGwwNG8wbHJnOU1UYWhrTk9BVF9jWGhiWTlfNWc1ckZRdW1JM0g1VzFEb21iTndScGFXdUZNMnN5OG9NbjN6VDhBZVlLMzZWT19aUFZDMmRvVGZra08xa1FsNW05MHo0X3BYd25kSU5xYlpvNlJXa19Wd0xtMXZOYXdxMDg2Smk0ZTdQTVREZUpPOEx4QnY3SFBCcmFxM3pRYmoyazV5UWpabHYtVENrZUNyYnZicERjSHBrbXhYWlZIQV9pZzBkXzljQTN3Vy12UDN2MmdDWjNja2FBYi1JY09JekpvdXY5cW0wUURPNjBqUWpfTmJzYmpJbnpvdmRWUVNfVTR0TTFZRnYwVnZBTmJSeUpvLUlqb19zUlpzVlVtbjU2U2JnUjhuOFhubHZxdktydjNpd01zem9uV0NNbmpmMXdaakVHcGRaS2ZhZ3BpU2xJeHVfeGE2c3JTTkJnWlh3ZUhLQ1dEMzdSVUpoMHg4TjVoMXh4cTVZX2Y1TXpLY2JsbkhSdFRNVjBGODR5TmM?oc=5",
+   "source": "The Times of India",
+   "pubDate": "2026-10-22T05:55:00.000Z",
+   "tags": [
+    "case"
+   ],
+   "politicianId": "LokSabha2024-9673",
+   "politicianName": ""
+  },
+  {
+   "title": "Bihar native arrested for attempting to derail train in Keralam",
+   "link": "https://www.thehindu.com/news/national/kerala/bihar-native-arrested-for-attempting-to-derail-train-in-keralam/article71610007.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-22T05:52:47.000Z",
+   "tags": [
+    "arrest"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "Cannot retain sale consideration and later allege fraud to challenge Lok Adalat award: Telangana High Court",
+   "link": "https://www.barandbench.com/news/cannot-retain-sale-consideration-and-later-allege-fraud-to-challenge-lok-adalat-award-telangana-high-court",
+   "source": "Barandbench",
+   "pubDate": "2026-10-22T05:48:52.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  }
+ ]
+}
