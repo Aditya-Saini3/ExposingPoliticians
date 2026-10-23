@@ -1,51 +1,72 @@
 {
- "updatedAt": "2026-10-22T06:09:49.720Z",
+ "updatedAt": "2026-10-23T06:05:04.327Z",
  "counts": {
-  "LokSabha2024-9708": 29,
-  "LokSabha2024-9677": 29,
+  "LokSabha2024-9708": 60,
+  "LokSabha2024-9677": 60,
   "LokSabha2024-9673": 60
  },
  "items": [
   {
-   "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-   "link": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-22T05:58:44.000Z",
+   "title": "Siddaramaiah sting operation case: News channel head seeks anticipatory bail | India News",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFQ5a2dFY1ZKTFlvQmVmVTRBUGZGc1VBRmM2Qm5lNFRWeFRtZFNtMEFCZEdNU2JDTEtCRWNxQUMydHcxWG9wMWJlX3QtaElUTGZ1ZDFWNHVOakJZeVR3MjAwM25KZGpuNXNNWldvZjBRR1NIVkRfTXB3dWlKQnhKSTVmTnVtaXJPdWNGT3V1TlVFQWJkakVKRnJ6N1RsbHYxQnNQaUpDck1HVTgyQ0VIOWpXR2RtLWlBQU91b0oyRHFZRlg0UHpLNzhfZll5VUFoVzBpWTRB0gHbAUFVX3lxTE1JX0hYSjA3b2Y5ZHdnaFBYYVBVSExhLW1mQi1zc1NiMGpINE1jc0twOGVpTWRobXNWRXI0eHBVV0NMZ3lkVEtIQ21Cc2FaVF9sQ3l0LU95ZmVvWmlYMFhiWDhPWFZSdGU0Wmg1SUZVc0pOb2g0UUdNVlNpQnl6NGxOVFQyTkpFSXgzQWJJNzFRaG1WMmQwOGpfeVhkOWdCblVUNEF2emk1RVVWS0NzZGU0a3hxNFhUbW9rWEZNV2ZyaG5oUHpCT0h6aGhFa2FZRW5Cc1EtTTE3dEJqcw?oc=5",
+   "source": "Hindustan Times",
+   "pubDate": "2026-10-23T05:53:50.000Z",
    "tags": [
-    "court"
-   ],
-   "politicianId": "LokSabha2024-9708",
-   "politicianName": ""
-  },
-  {
-   "title": "A Mangaluru doctor dated a fellow doctor for 7 years, they split over caste differences, she filed a case",
-   "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxONk1uQk90cTUyWng1Y0N6UTNreG1kc005bkhnOXpMaXhXMFlmalNUZWR2VGdvTHc4X21CdXlnTTlHSzNkdUlpMXFjUkpmWUlCWHVNQkd1QWZ1VUpCdzBFS3ZYeElkMjZjZjl1TDBpdHJCMEVtSlRWaDFocktQdGxka2NvVl9rdnFMTGJSYzNkbUxONFljV2JpTkJydHZaaXQwNHpzZkloY1VJWHFGTU1TdUdZSGNWdVRyOG9fa0UxVjd6NGNUb3BDTlpKZXVmTzRadDNnRVM5cWFYRklZOWgwNTRoSjRBbE90ZW1rcmQtdzFGRm55RXFWUWZYcE9jV3JrdGFmSmZ0aE5EVTBPVjJHVlVteWNOaDYtVHdaaG9GZGI5aWVTWVFzTU1zallkaW9ZV0lUMjktYjVDNGprYmotZ2IwcXhfNUNnRGRtY1FmZ0FqdDV1OG5lX0ZpN3AtNUxucjF3MnhxMWUwNVBpdnFQNUNKTmxudmtnNnVEN1lmSkc5cEtvOUlsYm40aFgtejBhUWFnZ1hvQmljQy15Sm5DaGxUTUNWN055STJ5WjZoZVRWSHdJYzVZY0g2YVBZYTVEQWVQaXJ6b2EwNVBtU2NnaVBPRUJtbTBuakHSAd8DQVVfeXFMTWt6TEgzT091Y0pBSGY4OWJLdUJZMUdQbURoZEtpclVWcUQ2R1RNdmxVSmJPRlB0QmZIUnZTVUhEQU9QWlZMN0hzRU5hNFRPbUdoSUcxVGwwNG8wbHJnOU1UYWhrTk9BVF9jWGhiWTlfNWc1ckZRdW1JM0g1VzFEb21iTndScGFXdUZNMnN5OG9NbjN6VDhBZVlLMzZWT19aUFZDMmRvVGZra08xa1FsNW05MHo0X3BYd25kSU5xYlpvNlJXa19Wd0xtMXZOYXdxMDg2Smk0ZTdQTVREZUpPOEx4QnY3SFBCcmFxM3pRYmoyazV5UWpabHYtVENrZUNyYnZicERjSHBrbXhYWlZIQV9pZzBkXzljQTN3Vy12UDN2MmdDWjNja2FBYi1JY09JekpvdXY5cW0wUURPNjBqUWpfTmJzYmpJbnpvdmRWUVNfVTR0TTFZRnYwVnZBTmJSeUpvLUlqb19zUlpzVlVtbjU2U2JnUjhuOFhubHZxdktydjNpd01zem9uV0NNbmpmMXdaakVHcGRaS2ZhZ3BpU2xJeHVfeGE2c3JTTkJnWlh3ZUhLQ1dEMzdSVUpoMHg4TjVoMXh4cTVZX2Y1TXpLY2JsbkhSdFRNVjBGODR5TmM?oc=5",
-   "source": "The Times of India",
-   "pubDate": "2026-10-22T05:55:00.000Z",
-   "tags": [
-    "case"
+    "case",
+    "bail"
    ],
    "politicianId": "LokSabha2024-9673",
    "politicianName": ""
   },
   {
-   "title": "Bihar native arrested for attempting to derail train in Keralam",
-   "link": "https://www.thehindu.com/news/national/kerala/bihar-native-arrested-for-attempting-to-derail-train-in-keralam/article71610007.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-22T05:52:47.000Z",
+   "title": "Allahabad High Court Upholds Murder Conviction Of Husband, In-Laws Based On Dying Declaration Despite...",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE9qdFh1V1pMSlNYUDY3V1U0bFhNRmE4cTRHOVllb2ZhNFMtY0tnUlhQR0ZjemZ0SnN5UVB0VHpYTFNkcjVmcC1yMlhwZmY5OVZ4ZXJNTUZ3dW84X3RaZEVYZ01sUUNxRU1NWldvMFpzX3FXME50X3lycV9sTVl4RmZ0OFlGTUUtbnItZWNyUEJXN0Z1cDhXcE95Z0d6MFcyVm1iWC1ndEFJZEJ2YWR3QVVqbnl0bGJVeFVrcGZmel94TllHZ3pN0gHMAUFVX3lxTE9rU2Q0UHk1eVZ5Q1NuRnhxVVBXT0tnNk1zRWZjWEFlN2pOZEVFOG1hUThDMklKZlprUW1la2dJb0FadHVjUjlMZmc0NWVGcERyeHRJVlhQZnhiZFZhR2FydUxMQ0g5Ny1DSGxpTC1Qd1hVbExURXNzemNxLXpRRmNuako1R2U3ZXB0QklQZVY3U2RPbWxLa1RfLWlWM0h4Wmx5MEQyT1NNeWExYnkwZTBrcnU1WkhxS3B6X3lMVFd2MHVyLWhFQjNHbndoaA?oc=5",
+   "source": "Live Law",
+   "pubDate": "2026-10-23T05:50:49.000Z",
    "tags": [
-    "arrest"
+    "court",
+    "convict",
+    "high court",
+    "murder"
+   ],
+   "politicianId": "LokSabha2024-9673",
+   "politicianName": ""
+  },
+  {
+   "title": "Kerala High Court To Hear On Monday Appeals By Pinarayi Vijayan, Kin Against Order Directing Vigilance FIR In CMRL-Exalogic Case",
+   "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-pinarayi-vijayan-cmrl-exalogic-vigilance-fir-555674",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-23T05:50:10.000Z",
+   "tags": [
+    "case",
+    "fir",
+    "court",
+    "high court"
    ],
    "politicianId": "LokSabha2024-9708",
    "politicianName": ""
   },
   {
-   "title": "Cannot retain sale consideration and later allege fraud to challenge Lok Adalat award: Telangana High Court",
-   "link": "https://www.barandbench.com/news/cannot-retain-sale-consideration-and-later-allege-fraud-to-challenge-lok-adalat-award-telangana-high-court",
-   "source": "Barandbench",
-   "pubDate": "2026-10-22T05:48:52.000Z",
+   "title": "Public Authority Can Revisit Auction To Maximise Price Of Public Property Before Binding Contract Is Concluded: Supreme Court",
+   "link": "https://www.livelaw.in/supreme-court/public-authority-can-revisit-auction-to-maximise-price-of-public-property-before-binding-contract-is-concluded-supreme-court-555686",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-23T05:49:33.000Z",
    "tags": [
     "court",
+    "supreme court"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "Bombay High Court awards ₹5 lakh compensation to man for illegal arrest in extortion case",
+   "link": "https://www.barandbench.com/news/bombay-high-court-awards-5-lakh-compensation-to-man-for-illegal-arrest-in-extortion-case",
+   "source": "Barandbench",
+   "pubDate": "2026-10-23T05:44:17.000Z",
+   "tags": [
+    "case",
+    "court",
+    "arrest",
     "high court"
    ],
    "politicianId": "LokSabha2024-9708",
