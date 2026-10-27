@@ -1,15 +1,531 @@
 {
- "updatedAt": "2026-10-26T06:21:15.710Z",
+ "updatedAt": "2026-10-27T06:22:11.529Z",
  "items": [
   {
-   "title": "Breaking: Sultanpur Court Acquits LoP Rahul Gandhi In 2018 Defamation Case Over Remarks Against Amit Shah",
+   "title": "SIT completes probe into Sabarimala gold theft; Kerala High Court urges speedy prosecution sanction",
+   "link": "https://www.barandbench.com/news/sit-completes-probe-into-sabarimala-gold-theft-kerala-high-court-urges-speedy-prosecution-sanction",
+   "source": "Barandbench",
+   "pubDate": "2026-10-27T06:10:07.000Z",
+   "tags": [
+    "court",
+    "probe",
+    "high court"
+   ]
+  },
+  {
+   "title": "Theni jail escape: Keralam police alerted; combing operations under way in forest areas, says officer",
+   "link": "https://www.thehindu.com/news/cities/Madurai/theni-jailbreak-kerala-police-alerted-combing-operations-going-on-in-forest-areas-too-says-officer/article71629619.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T06:06:22.000Z",
+   "tags": [
+    "jail",
+    "police"
+   ]
+  },
+  {
+   "title": "17 remand prisoners escape from sub-jail in Theni district; combing operations lead to arrest of four: IGP",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T05:55:01.000Z",
+   "tags": [
+    "arrest",
+    "jail"
+   ]
+  },
+  {
+   "title": "Allahabad High Court dismisses plea challenging 18% GST on online legal databases",
+   "link": "https://www.barandbench.com/news/litigation/allahabad-high-court-dismisses-plea-challenging-18-gst-on-online-legal-databases",
+   "source": "Barandbench",
+   "pubDate": "2026-10-27T05:42:09.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "Supreme Court Issues Notice On Pregnant Journalist's Plea Seeking FIR Against Rahul Gandhi Over Alleged Assault In SC March",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-october-12-ruckus-opposition-leaders-march-against-cec-eci-sir-pregnant-journalist-pushed-fir-sought-against-rahul-gandhi-556082",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T05:36:01.000Z",
+   "tags": [
+    "fir",
+    "court",
+    "supreme court",
+    "assault"
+   ]
+  },
+  {
+   "title": "Journalist Siddique Kappan Moves Supreme Court Seeking Release Of Passport",
+   "link": "https://www.livelaw.in/top-stories/journalist-siddique-kappan-moves-supreme-court-seeking-release-of-passport-556081",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T05:17:31.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Collegium Recommends Elevation Of 4 Judges As High Court Chief Justices",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-collegium-recommends-four-high-court-judges-for-appointment-as-chief-justices-556057",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T05:13:14.000Z",
+   "tags": [
+    "court",
+    "high court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Two midnight crashes, four deaths in Ernakulam: MVD, police call for more speed cameras, night patrols",
+   "link": "https://www.thehindu.com/news/national/kerala/mvd-police-seek-speed-detection-cameras-more-personnel-for-night-patrol-to-curb-overspeeding/article71627274.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T05:09:57.000Z",
+   "tags": [
+    "police"
+   ]
+  },
+  {
+   "title": "MP High Court Upholds IT Rules Allowing Social Media Platforms To Remove Copyright-Infringing Posts",
+   "link": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-upholds-validity-of-rule-3-it-act-dismisses-instagram-creator-plea-over-account-suspension-556077",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T04:50:51.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "Supreme Court Collegium proposes four judges for HC Chief Justiceships",
+   "link": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T04:45:35.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Company directors not personally liable for unpaid legal fees: Bengaluru Court",
+   "link": "https://www.barandbench.com/news/litigation/company-directors-not-personally-liable-for-unpaid-legal-fees-bengaluru-court",
+   "source": "Barandbench",
+   "pubDate": "2026-10-27T04:40:05.000Z",
+   "tags": [
+    "court"
+   ]
+  },
+  {
+   "title": "LiveLaw Supreme Court Quarterly Digest 2026 - Arbitration and Conciliation Act [July To September]",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-arbitration-and-conciliation-act-quarterly-digest-2026-556073",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T04:33:35.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Sabarimala gold theft case: Kerala HC directs SIT to expedite prosecution sanction",
+   "link": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-kerala-hc-directs-sit-to-expedite-prosecution-sanction/article71628096.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T04:28:33.000Z",
+   "tags": [
+    "case"
+   ]
+  },
+  {
+   "title": "Rape and murder accused killed in encounter in West Bengal’s Bongaon",
+   "link": "https://www.thehindu.com/news/national/west-bengal/rape-and-murder-accused-killed-in-encounter-in-west-bengals-bongaon/article71629772.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T04:25:11.000Z",
+   "tags": [
+    "accused",
+    "murder"
+   ]
+  },
+  {
+   "title": "Calcutta High Court Orders Social Media Sites To Remove Video Alleging Modi-Adani 'Stole India'",
+   "link": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-orders-removal-of-youtube-video-alleging-modi-adani-stole-india-556058",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T04:23:22.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "Media association challenges privacy law in Supreme Court",
+   "link": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T04:20:23.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Ex-DMK minister Anbil remanded to judicial custody till Nov 6",
+   "link": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T04:17:34.000Z",
+   "tags": [
+    "custody"
+   ]
+  },
+  {
+   "title": "CoC can't withdraw approved insolvency resolution plan citing debtor's improved financial position: Supreme Court",
+   "link": "https://www.barandbench.com/news/litigation/coc-cant-withdraw-approved-insolvency-resolution-plan-citing-debtors-improved-financial-position-supreme-court",
+   "source": "Barandbench",
+   "pubDate": "2026-10-27T04:11:37.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "In Electricity Theft Cases,High Courts Can Restore Supply On 50% Deposit If Provisional Assessment Appears Arbitrary : Supreme Court",
+   "link": "https://www.livelaw.in/supreme-court/in-electricity-theft-caseshigh-courts-can-restore-supply-on-50-deposit-if-provisional-assessment-appears-arbitrary-supreme-court-556065",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T04:09:23.000Z",
+   "tags": [
+    "case",
+    "court",
+    "high court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+   "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-27T03:56:39.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Can Election Expenses Be Recovered From Candidate Who Resigns To Re-Contest For Another Party? Supreme Court To Decide",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-aiadmk-mla-resignation-to-re-contest-bye-elections-tamil-nadu-election-expenditure-recovery-plea-notice-issued-556052",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T03:36:12.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Plea Against ECI, CEC Gyanesh Kumar, SIR Decisions : Live Updates From Supreme Court",
+   "link": "https://www.livelaw.in/top-stories/plea-against-eci-cec-gyanesh-kumar-sir-decisions-live-updates-from-supreme-court-556059",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T03:20:45.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Daily Round-Up : October 26, 2026",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-daily-round-up-october-26-2026-556053",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-27T03:12:31.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Husband forcing wife to accept extramarital affair and live with mistress is mental cruelty: Jharkhand High Court",
+   "link": "https://www.barandbench.com/news/litigation/husband-forcing-wife-to-accept-extramarital-affair-and-live-with-mistress-is-mental-cruelty-jharkhand-high-court",
+   "source": "Barandbench",
+   "pubDate": "2026-10-27T02:56:12.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "SC pulls up Rajasthan over Jojari river pollution, warns of CBI probe",
+   "link": "https://www.thehindu.com/news/national/supreme-court-pulls-up-rajasthan-over-jojari-river-pollution-warns-of-cbi-probe/article71627878.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-26T23:27:44.000Z",
+   "tags": [
+    "cbi",
+    "probe"
+   ]
+  },
+  {
+   "title": "Amid alleged liquor deaths in Madhya Pradesh’s Dewas, police nab 10 for illicit trade",
+   "link": "https://www.thehindu.com/news/national/madhya-pradesh/amid-alleged-liquor-deaths-in-madhya-pradeshs-dewas-police-nab-10-for-illicit-trade/article71628057.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-26T21:16:51.000Z",
+   "tags": [
+    "police"
+   ]
+  },
+  {
+   "title": "Mumbai Police form SIT to probe Jarange’s ₹500 crore claim as Raut writes to Shah seeking ED probe",
+   "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-police-form-sit-to-probe-jaranges-500-crore-claim-as-raut-writes-to-shah-seeking-ed-probe/article71628069.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-26T21:02:23.000Z",
+   "tags": [
+    "ed",
+    "probe",
+    "police"
+   ]
+  },
+  {
+   "title": "Solicitor-General to appear for Karnataka in bike-taxi case",
+   "link": "https://www.thehindu.com/news/national/solicitor-general-to-appear-for-karnataka-in-bike-taxi-case/article71628382.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-26T20:32:05.000Z",
+   "tags": [
+    "case"
+   ]
+  },
+  {
+   "title": "Tiger Shroff firing case: Custody of four accused extended till Oct 28; 11th accused remanded till Oct 31",
+   "link": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-attack-police-custody-of-4-extended-till-october-28-voice-samples-needed-say-cops/article71627255.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-10-26T18:30:57.000Z",
+   "tags": [
+    "case",
+    "accused",
+    "custody"
+   ]
+  },
+  {
+   "title": "Supreme Court Collegium Recommends Elevation Of CETSTAT Member & Advocate As Bombay High Court Judges",
+   "link": "https://www.livelaw.in/high-court/bombay-high-court/supreme-court-collegium-recommends-elevation-of-cetstat-member-advocate-as-bombay-high-court-judges-556056",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T17:17:10.000Z",
+   "tags": [
+    "court",
+    "high court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Collegium Recommends Appointment Of 7 Advocates As Judges Of Madhya Pradesh High Court",
+   "link": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/supreme-court-collegium-recommends-appointment-of-seven-advocates-to-judges-of-madhya-pradesh-high-court-556055",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T17:14:30.000Z",
+   "tags": [
+    "court",
+    "high court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "All SIR Decisions Unanimously Taken; Form 6 Not Amended : ECI Tells Supreme Court",
+   "link": "https://www.livelaw.in/top-stories/all-sir-decisions-unanimously-taken-form-6-not-amended-eci-tells-supreme-court-556046",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T16:41:50.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Do not go to celebrities who charge for pollution awareness campaigns: Bombay High Court to State",
+   "link": "https://www.barandbench.com/news/do-not-go-to-any-celebrity-who-charges-for-pollution-awareness-drive-bombay-high-court-to-state",
+   "source": "Barandbench",
+   "pubDate": "2026-10-26T16:37:38.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "ECI Cites Supreme Court Orders To Justify Filing Of 16.10 Lakh Appeals Against Voter Inclusions In West Bengal SIR",
+   "link": "https://www.livelaw.in/top-stories/eci-cites-supreme-court-orders-to-justify-filing-of-1610-lakh-appeals-against-voter-inclusions-in-west-bengal-sir-556051",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T16:26:20.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Quashes Karnataka Land Acquisition Over Fraud & Bribery In Housing Society Scheme, Orders Land Restoration To Owners",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-quashes-karnataka-land-acquisition-over-fraud-bribery-in-housing-society-scheme-orders-land-restoration-to-owners-556028",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T13:49:58.000Z",
+   "tags": [
+    "court",
+    "supreme court",
+    "brib"
+   ]
+  },
+  {
+   "title": "Supreme Court Warns Rajasthan Of CBI Probe Into Regularisation Of Illegal Mining Along Jojari-Luni-Bandi River System",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-warns-rajasthan-of-cbi-probe-into-regularisation-of-illegal-mining-along-jojari-luni-bandi-river-system-556025",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T13:41:38.000Z",
+   "tags": [
+    "court",
+    "cbi",
+    "probe",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Cooperative Society Cannot Deny RTI Information To Member As 'Personal' If Registrar Can Access Such Records : Supreme Court",
+   "link": "https://www.livelaw.in/supreme-court/cooperative-society-cannot-deny-rti-information-to-as-personal-if-registrar-can-access-such-records-supreme-court-556023",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T13:36:56.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Sultanpur Court Acquits LoP Rahul Gandhi In 2018 Defamation Case Over Remarks Against Amit Shah",
    "link": "https://www.livelaw.in/top-stories/sultanpur-court-acquits-lop-rahul-gandhi-2018-defamation-amit-shah-555906",
    "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-26T06:19:03.000Z",
+   "pubDate": "2026-10-26T12:48:57.000Z",
    "tags": [
     "case",
     "court",
     "acquit"
+   ]
+  },
+  {
+   "title": "IBC | CoC Cannot Withdraw Approved Resolution Plan Citing Improved Financial Position Of Corporate Debtor : Supreme Court",
+   "link": "https://www.livelaw.in/supreme-court/ibc-coc-cannot-withdraw-approved-resolution-plan-citing-improved-financial-position-of-corporate-debtor-supreme-court-555999",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T11:59:32.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Kerala High Court Stays FIR, Probe Against Former CM Pinarayi Vijayan, Kin In CMRL-Exalogic Pay Off Case",
+   "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-pinarayi-vijayan-cmrl-exalogic-555980",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T11:35:58.000Z",
+   "tags": [
+    "case",
+    "fir",
+    "court",
+    "probe"
+   ]
+  },
+  {
+   "title": "Supreme Court Directs States & High Courts To Ensure Availability Of Washrooms, Ladies' Bar Rooms For Women Lawyers",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-women-advocates-ladies-bar-room-washrooms-district-taluka-courts-ag-venkataramani-states-high-courts-obligated-to-ensure-facilities-555992",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T11:33:17.000Z",
+   "tags": [
+    "court",
+    "high court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "'UP Police Need Education In Investigation' : Supreme Court Orders ₹6 Lakh Compensation To Man Acquitted After 6 Years In Jail",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-orders-6-lakh-compensation-to-man-acquitted-after-6-years-in-jail-555984",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T10:53:26.000Z",
+   "tags": [
+    "court",
+    "acquit",
+    "jail",
+    "police"
+   ]
+  },
+  {
+   "title": "Imran Khan's Plea Against 'Leave India' Notice : Live Updates From Bombay High Court",
+   "link": "https://www.livelaw.in/top-stories/bombay-high-court-hearing-imran-khans-plea-against-leave-india-notice-555966",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T09:45:02.000Z",
+   "tags": [
+    "court",
+    "high court"
+   ]
+  },
+  {
+   "title": "Supreme Court Criticises Tamil Nadu Govt For Dragging 1996 Riot Compensation Matter",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-criticises-tamil-nadu-govt-for-dragging-1996-riot-compensation-matter-555967",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T09:36:29.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Refuses To Entertain Plea Seeking CBI Probe Against AIADMK MLAs Who Resigned To Join CM Vijay-Led TVK",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-tamil-nadu-assembly-elections-aiadmk-mla-cross-voting-resignation-joining-vijay-led-tvk-plea-for-cbi-probe-rejected-555962",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T09:17:55.000Z",
+   "tags": [
+    "court",
+    "cbi",
+    "probe",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "LiveLaw Supreme Court Criminal Law Digest: September 2026",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-criminal-law-digest-september-2026-555961",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T09:12:36.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Seeks ECI's Response On Plea Challenging Maharashtra SIR",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-seeks-ecis-response-on-plea-challenging-maharashtra-sir-555950",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T08:17:25.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "'Go To Trial Court': Supreme Court Refuses To Modify Bail Condition For Delhi Riots UAPA Accused To Attend Law University",
+   "link": "https://www.livelaw.in/top-stories/go-to-trial-court-supreme-court-refuses-to-modify-bail-condition-for-delhi-riots-uapa-accused-to-attend-law-university-555935",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T07:14:20.000Z",
+   "tags": [
+    "court",
+    "bail",
+    "accused",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Permits Ashish Mishra To Visit Lakhimpur Kheri For Diwali",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-permits-ashish-mishra-to-visit-lakhimpur-kheri-for-diwali-555920",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T06:46:13.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "LiveLaw Supreme Court Monthly Digest: September 2026",
+   "link": "https://www.livelaw.in/supreme-court/supreme-court-judgments-and-orders-monthly-digest-september-2026-555911",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T06:36:17.000Z",
+   "tags": [
+    "court",
+    "supreme court"
+   ]
+  },
+  {
+   "title": "Supreme Court Asks SCBA Not To Declare Result Of November 2 General Body Meeting On Electoral Reforms",
+   "link": "https://www.livelaw.in/top-stories/supreme-court-asks-scba-not-to-declare-result-of-november-2-general-body-meeting-on-electoral-reforms-555909",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-10-26T06:31:08.000Z",
+   "tags": [
+    "court",
+    "supreme court"
    ]
   },
   {
@@ -99,499 +615,6 @@
    "tags": [
     "court",
     "supreme court"
-   ]
-  },
-  {
-   "title": "Important MCQs Based On Latest Supreme Court Judgments For Law Examinations",
-   "link": "https://www.livelaw.in/law-exams/judicial-service-mcqs-based-on-latest-supreme-court-judgments-555877",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-26T04:05:11.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Raj Thackeray deletes Modi-Adani documentary post after Mumbai Police chief’s request, vows to continue fight",
-   "link": "https://www.thehindu.com/news/national/raj-thackeray-deletes-pm-modi-adani-documentary-from-social-media-after-mumbai-police-chiefs-request/article71622785.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T21:02:27.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "Jamia student protest intensifies amid restrictions, heavy police deployment",
-   "link": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T20:13:38.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "Pulakeshinagar IED blast case cracked, personal rivalry behind the plot",
-   "link": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T19:11:52.000Z",
-   "tags": [
-    "case"
-   ]
-  },
-  {
-   "title": "Congress leader Kripa Alva questioned in ‘sting operation’ case",
-   "link": "https://www.thehindu.com/news/national/karnataka/congress-leader-kripa-alva-questioned-in-sting-operation-case/article71623365.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T18:44:44.000Z",
-   "tags": [
-    "case"
-   ]
-  },
-  {
-   "title": "Owner, mahout booked for neglecting elephant in Kozhikode",
-   "link": "https://www.thehindu.com/news/national/kerala/owner-mahout-booked-for-neglected-elephant-in-kozhikode/article71623007.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T17:43:17.000Z",
-   "tags": [
-    "booked"
-   ]
-  },
-  {
-   "title": "Two persons arrested in Ranipet for stealing two-wheelers",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-arrested-in-ranipet-for-stealing-two-wheelers/article71623047.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T17:38:57.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "Supreme Court clarifies scope of police custody under BNSS",
-   "link": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T17:13:49.000Z",
-   "tags": [
-    "court",
-    "police",
-    "supreme court",
-    "custody"
-   ]
-  },
-  {
-   "title": "CJI Chandrachud Asked Me To Take 'Middle Path' In PMLA Case; Was Under Pressure To Shift Judges Appointment Matter From Me : Justice Kaul",
-   "link": "https://www.livelaw.in/top-stories/j-kaul-555859",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-25T12:46:29.000Z",
-   "tags": [
-    "case",
-    "pmla"
-   ]
-  },
-  {
-   "title": "Can't Penalise Flat Buyers Who Relied On Official Documents : Supreme Court Directs Alternative Site Before Demolition",
-   "link": "https://www.livelaw.in/supreme-court/cant-penalise-flat-buyers-who-relied-on-official-documents-supreme-court-directs-alternative-site-before-demolition-555868",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-25T12:37:37.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Police hold flag march in Narasaraopet ahead of local body polls",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-hold-flag-march-in-narasaraopet-ahead-of-local-body-polls/article71619593.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-25T06:00:48.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T21:06:25.000Z",
-   "tags": [
-    "court",
-    "convict",
-    "high court"
-   ]
-  },
-  {
-   "title": "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
-   "link": "https://www.thehindu.com/news/national/kerala/kerala-police-indict-social-media-influencer-darren-for-communally-divisive-hate-speech-on-instagram/article71619795.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T19:38:00.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-   "link": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T18:33:11.000Z",
-   "tags": [
-    "court"
-   ]
-  },
-  {
-   "title": "Another worker succumbs to injuries in Vellore; cracker unit owner arrested",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/another-worker-succumbs-to-injuries-in-vellore-cracker-unit-owner-arrested/article71619252.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T18:23:41.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "BJP seeks probe into death of mother, baby in Kashmir’s Gurez, flags healthcare gaps",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/bjp-seeks-probe-into-death-of-mother-baby-in-kashmirs-gurez-flags-healthcare-gaps/article71621039.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T18:02:58.000Z",
-   "tags": [
-    "probe"
-   ]
-  },
-  {
-   "title": "Siddaramaiah ‘sting operation’: Delhi-based man arrested and released on bail",
-   "link": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-sting-operation-delhi-man-arrested-and-released-on-bail/article71619920.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T18:02:27.000Z",
-   "tags": [
-    "arrest",
-    "bail"
-   ]
-  },
-  {
-   "title": "Christian families in West Bengal get police protection after alleged attacks to renounce religion",
-   "link": "https://www.thehindu.com/news/national/west-bengal/christian-families-in-west-bengal-get-police-protection-after-alleged-attacks-to-renounce-religion/article71620988.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T17:20:21.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "Police showcase weapons, security measures at Open House for students",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-showcase-weapons-security-measures-at-open-house-for-students/article71620580.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T17:16:06.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "CBI arrests proclaimed offender in fodder scam case",
-   "link": "https://www.thehindu.com/news/national/cbi-arrests-proclaimed-offender-in-fodder-scam-case/article71619057.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T04:58:15.000Z",
-   "tags": [
-    "case",
-    "arrest",
-    "cbi",
-    "scam"
-   ]
-  },
-  {
-   "title": "Delhi High Court Rejects Neha Bora's Plea Against Peace Bond Notice Amid Anti-CEC Protests",
-   "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-neha-boras-plea-against-peace-bond-notice-amid-anti-cec-protests-555786",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-24T04:56:06.000Z",
-   "tags": [
-    "court",
-    "high court"
-   ]
-  },
-  {
-   "title": "Plea before Supreme Court seeks expert committee headed by former CJI to examine ECI's functioning",
-   "link": "https://www.barandbench.com/news/litigation/plea-before-supreme-court-seeks-expert-committee-headed-by-former-cji-to-examine-ecis-functioning",
-   "source": "Barandbench",
-   "pubDate": "2026-10-24T04:27:23.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Delhi High Court Says Neha Bora's Peace-Bond Notice Based On Diary Entries, Prohibitory Orders Covered Mandi House",
-   "link": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-neha-bora-peace-bond-notice-555796",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-24T04:13:17.000Z",
-   "tags": [
-    "court",
-    "high court"
-   ]
-  },
-  {
-   "title": "Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area",
-   "link": "https://www.thehindu.com/news/national/odisha/odisha-moves-supreme-court-against-andhra-pradesh-over-rural-poll-notice-in-kotia-area/article71618935.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-24T02:04:20.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
-   "link": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T22:49:21.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-   "link": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-sets-up-anti-corruption-panel-frames-sop-for-reporting-graft/article71617238.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T19:59:35.000Z",
-   "tags": [
-    "corruption"
-   ]
-  },
-  {
-   "title": "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-14-cases-booked-on-the-last-day-of-nominations-says-andhra-pradesh-dgp/article71617034.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T19:40:00.000Z",
-   "tags": [
-    "case",
-    "booked"
-   ]
-  },
-  {
-   "title": "Three arrested for allegedly stealing two-wheelers in Amberpet",
-   "link": "https://www.thehindu.com/news/national/telangana/three-arrested-for-allegedly-stealing-two-wheelers-in-amberpet/article71616901.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T19:38:10.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "MPSC paper ‘leak’: Fourth Commission official arrested, total arrests rise to 13",
-   "link": "https://www.thehindu.com/news/national/maharashtra/mpsc-paper-leak-fourth-commission-official-arrested-total-arrests-rise-to-13/article71617247.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T19:24:56.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "Shankarpally police deny forcing minor girl to undergo medical examination",
-   "link": "https://www.thehindu.com/news/national/telangana/shankarpally-police-deny-forcing-minor-girl-to-undergo-medical-examination/article71617130.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T18:38:14.000Z",
-   "tags": [
-    "police"
-   ]
-  },
-  {
-   "title": "ACB traps Tulluru PHC medical officer while accepting ₹25,000 bribe",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/acb-traps-tulluru-phc-medical-officer-while-accepting-25000-bribe/article71617245.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T18:06:30.000Z",
-   "tags": [
-    "brib"
-   ]
-  },
-  {
-   "title": "SEM notice asking Neha Bora to sign peace bond not based on mere hearsay: Delhi High Court",
-   "link": "https://www.barandbench.com/news/litigation/sem-notice-asking-neha-bora-to-sign-peace-bond-not-based-on-mere-hearsay-delhi-high-court",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T16:41:12.000Z",
-   "tags": [
-    "court",
-    "high court"
-   ]
-  },
-  {
-   "title": "Delhi High Court's Judgment On Neha Bora's Plea Against Peace Bond Notice : Live Updates",
-   "link": "https://www.livelaw.in/top-stories/neha-bora-plea-against-peace-bond-notice-live-updates-from-delhi-high-court-555757",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T13:43:19.000Z",
-   "tags": [
-    "court",
-    "high court"
-   ]
-  },
-  {
-   "title": "Mere Suit Seeking Recovery Of Possession Not Sufficient When Plaintiff's Title Is Disputed : Supreme Court",
-   "link": "https://www.livelaw.in/supreme-court/mere-suit-seeking-recovery-of-possession-not-sufficient-when-plaintiffs-title-is-disputed-supreme-court-555742",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T09:54:07.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "National Song Replaced With 'Religious War Song' From Anandamath : Ex-IAS Officer's Plea In Supreme Court",
-   "link": "https://www.livelaw.in/top-stories/national-song-replaced-with-religious-war-song-from-anandamath-ex-ias-officers-plea-in-supreme-court-555702",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T06:55:57.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "'No Mechanical Arrests': Karnataka High Court Issues Guidelines For Police To Curb Unwarranted FIRs Over Social Media Posts",
-   "link": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-fir-karnataka-portfolio-admin-repost-puttur-stalking-incident-555681",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T06:32:59.000Z",
-   "tags": [
-    "fir",
-    "court",
-    "arrest",
-    "police"
-   ]
-  },
-  {
-   "title": "Kerala High Court To Hear On Monday Appeals By Pinarayi Vijayan, Kin Against Order Directing Vigilance FIR In CMRL-Exalogic Case",
-   "link": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-pinarayi-vijayan-cmrl-exalogic-vigilance-fir-555674",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T05:50:10.000Z",
-   "tags": [
-    "case",
-    "fir",
-    "court",
-    "high court"
-   ]
-  },
-  {
-   "title": "Public Authority Can Revisit Auction To Maximise Price Of Public Property Before Binding Contract Is Concluded: Supreme Court",
-   "link": "https://www.livelaw.in/supreme-court/public-authority-can-revisit-auction-to-maximise-price-of-public-property-before-binding-contract-is-concluded-supreme-court-555686",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T05:49:33.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Bombay High Court awards ₹5 lakh compensation to man for illegal arrest in extortion case",
-   "link": "https://www.barandbench.com/news/bombay-high-court-awards-5-lakh-compensation-to-man-for-illegal-arrest-in-extortion-case",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T05:44:17.000Z",
-   "tags": [
-    "case",
-    "court",
-    "arrest",
-    "high court"
-   ]
-  },
-  {
-   "title": "Is murder by gangsters an accidental death for insurance claims? Punjab Consumer Commission answers",
-   "link": "https://www.barandbench.com/news/litigation/is-murder-by-gangsters-an-accidental-death-for-insurance-claims-punjab-consumer-commission-answers",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T05:42:50.000Z",
-   "tags": [
-    "murder"
-   ]
-  },
-  {
-   "title": "Golden Chariot revamped, fully booked for the first time",
-   "link": "https://www.thehindu.com/news/national/karnataka/golden-chariot-revamped-fully-booked-for-the-first-time/article71611630.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T05:42:46.000Z",
-   "tags": [
-    "booked"
-   ]
-  },
-  {
-   "title": "Two Maharashtra Ekikaran Samiti leaders arrested in Belagavi",
-   "link": "https://www.thehindu.com/news/national/karnataka/two-maharashtra-ekikaran-samiti-leaders-arrested-in-belagavi/article71614592.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T05:40:32.000Z",
-   "tags": [
-    "arrest"
-   ]
-  },
-  {
-   "title": "Disputed WhatsApp Message Cannot Sustain Conviction: Supreme Court Acquits Man In Murder Case",
-   "link": "https://www.livelaw.in/supreme-court/disputed-whatsapp-message-cannot-sustain-conviction-supreme-court-acquits-man-in-murder-case-555679",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-10-23T05:29:41.000Z",
-   "tags": [
-    "case",
-    "court",
-    "convict",
-    "acquit"
-   ]
-  },
-  {
-   "title": "21-year-old arrested for murdering wife, dumping body in stormwater drain in Bengaluru",
-   "link": "https://www.thehindu.com/news/cities/bangalore/21-year-old-arrested-for-murdering-wife-dumping-body-in-stormwater-drain-in-bengaluru/article71613005.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T05:22:00.000Z",
-   "tags": [
-    "arrest",
-    "murder"
-   ]
-  },
-  {
-   "title": "Bengaluru Pink Line Metro opening approval expected within five days; Blue Line trial runs by October-end",
-   "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-pink-line-metro-opening-approval-expected-within-five-days-blue-line-trial-runs-by-october-end/article71612366.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T05:12:58.000Z",
-   "tags": [
-    "trial"
-   ]
-  },
-  {
-   "title": "Pre-trial detention cannot become punishment without trial: Supreme Court",
-   "link": "https://www.barandbench.com/news/litigation/pre-trial-detention-cannot-become-punishment-without-trial-supreme-court",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T05:05:31.000Z",
-   "tags": [
-    "court",
-    "supreme court",
-    "trial"
-   ]
-  },
-  {
-   "title": "SAT Hospital in Keralam rejects charges of ‘clinical trial drugs’ given to SMA-afflicted children",
-   "link": "https://www.thehindu.com/news/national/kerala/sat-hospital-in-keralam-rejects-charges-of-clinical-trial-drugs-given-to-sma-afflicted-children/article71612808.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T04:32:21.000Z",
-   "tags": [
-    "trial"
-   ]
-  },
-  {
-   "title": "Why are Andhra Pradesh’s civic poll nominations under the Supreme Court’s scrutiny? | Explained",
-   "link": "https://www.thehindu.com/news/national/andhra-pradesh/why-are-andhra-pradeshs-civic-poll-nominations-under-the-supreme-courts-scrutiny-explained/article71610915.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-10-23T04:17:22.000Z",
-   "tags": [
-    "court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Karnataka High Court quashes FIR against persons who put up posters terming Supreme Court judgment a \"denial of justice\"",
-   "link": "https://www.barandbench.com/news/litigation/karnataka-high-court-quashes-fir-against-persons-who-put-up-posters-terming-supreme-court-judgment-a-denial-of-justice",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T04:06:12.000Z",
-   "tags": [
-    "fir",
-    "court",
-    "high court",
-    "supreme court"
-   ]
-  },
-  {
-   "title": "Bombay High Court quashes FIR against Pune college principal, teachers over Murud beach tragedy",
-   "link": "https://www.barandbench.com/news/bombay-high-court-quashes-fir-against-pune-college-principal-teachers-over-murud-beach-tragedy",
-   "source": "Barandbench",
-   "pubDate": "2026-10-23T04:01:50.000Z",
-   "tags": [
-    "fir",
-    "court",
-    "high court"
    ]
   }
  ]
