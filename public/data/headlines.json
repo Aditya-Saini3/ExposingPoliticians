@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:20:10.842Z",
+ "updatedAt": "2026-11-22T08:04:00.539Z",
  "counts": {
   "LokSabha2024-9708": 60,
   "LokSabha2024-9677": 60,
@@ -7,60 +7,47 @@
  },
  "items": [
   {
-   "title": "PDP’s Iltija, CPI(M)’s Tarigami express concern over ‘rising scams’ in government-run recruiting agencies in J&K",
-   "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/pdps-iltija-cpims-tarigami-express-concern-over-rising-scams-in-government-run-recruiting-agencies-in-jk/article71727427.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-11-21T08:05:27.000Z",
+   "title": "Why 21-day delay in FIR? Congress raises fresh questions over Ram temple donation theft case",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnYtRHh3LWxlNno2QTcxNVRFbkI0ZHg4RThwSTJpa2owUG5tVEdXV0pDT2lTeTZQeEdoRkZBcVFTLVlhTmR2Ql9KUVRqLUlxUzkxTXg3SFVSNldIeHZFVGRvRWVZQjRfOWd5cEVIQ3dra0MwZXVTTjh0Z183dFQtamNkVGRVSlNlZHhJVnYwaENST0pzNWl3amlOTUNMZF9jRGQxMlpJTTR6ZlpBVEVYYmctU21kRWdOb2JKVG5qYWRUOHlQ0gHKAUFVX3lxTE4tLVVCd2RYSXRDQ050bHFtZVQxaWJ6a1haUHBUQUpoZGpuUmpNWUVidEFKZXJuREVXSlZ6T3hxNWF3b1Q0ZW1tZV9mek9uSnNLM09Wa1U5VGFycE02dXhIa0hBNFg4Z2N1alZDRGtXUjEzS2NSbEtoajFFUVpTTGFza0dIRFFKakl6N3h4ZWdBczJmaU9qcGVDaUttQThON1VJV2ItdXJrbWlfM3V3QTgtMUdYcHc5Qjk5OHRFOEh0Rm9oZlRQMVRlVmc?oc=5",
+   "source": "India Today",
+   "pubDate": "2026-11-22T07:50:25.000Z",
    "tags": [
-    "scam"
+    "case",
+    "fir"
+   ],
+   "politicianId": "LokSabha2024-9673",
+   "politicianName": ""
+  },
+  {
+   "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+   "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-11-22T07:47:32.000Z",
+   "tags": [
+    "arrest"
    ],
    "politicianId": "LokSabha2024-9708",
    "politicianName": ""
   },
   {
-   "title": "Why Myanmar’s genocide verdict matters, including for Israel’s case",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY3A3azA2R3otREVyZzhMXzM5N0tLamZUM0NSOXZGb1lTMlZjbXRFM0VfSVFYbE82eTRWQ3puaWNsdTNIa19FMGMzQXpQM1dvbzRxWXNuVVpQcWdrY0NfRmUwYzlTQkJRUTlNeTd0MjJGMklYbG4wRlJHRXZkX2NZendYTUE5VEJINDFEcmd2XzNDcTdrQzZ5VUZHbHlTQnd6SFdBX1FLbDlscGJzMFcySDZXRk94cWJTcmhXWlZTa0RBQjQ3R3MzR1JHb0lnbHYy0gHXAUFVX3lxTE5wUU9lamJKaUZHYmE2eWtEUmZfeTlGNGFyLWxwT2NxTHZrQk1ZQ1JzRExCb1Z2M0EzNWtUcGFjZGVpQi12a2c1eVBqcV9BX3R5UUVjTk1lRU1EWFlvenVodWNEdzduT2FrWnJidmRaU203dl9mb3hhTDNfc24wUmsyRmF5MlRUYmFnaXJ0S3Y2R2xIWER4RVdXQVJSWDBhNmVVM1FMbVJwQkVoQ1MyakNiRm9ReGZVcWRFLTY4TmR4UEdIeTA1bHpGd3ZjNUJTbXM5Q2JNSEFJ?oc=5",
-   "source": "The Indian Express",
-   "pubDate": "2026-11-21T08:02:24.000Z",
-   "tags": [
-    "case",
-    "verdict"
-   ],
-   "politicianId": "LokSabha2024-9673",
-   "politicianName": ""
-  },
-  {
-   "title": "Ajit Doval, former R&AW chief Samant Goel served summonses by US court in Pannun case",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbnl6Y29Wa3BfYngwNllvM1A4US1HWVBmVE5zUkJaek1OdHN5UVlPNEsxdDQ4TWI2UE1POWpjMWhRdDN0V1hGcDF2VmtJblVpUzItbGVZQUI5VTU1aFg3aHlKT2MyRzhQV1Y5Q04zTGNFLWNKbHNlWmo2cDZXNmM3VHFkRFd4N0tBelh3Q1A0OVVxQzFFeWhFVnJLQTBkcG5xVGVxdURyTFdUU2FrMlkyX1VJUVc1UGZESkRiSzMtbkZLcE9JV0ZtSjdfY09FbnJXLWdRS2JqR2RXN1BWQ3VkWnBhZWl5MEZMNFlGUk9TemUyQdIB9wFBVV95cUxPNk5Ya2JDQW1kNHJyYTlqdjNONnNYNEJUcXpNRFFSa2RvTVN0SWMwTVlfc1dDUkZVd1VLM0J0MTVreWM0bXZPMlJaSVd2Z1I4MkhmUkFqbVU5dEFTUUNXWGdSTjBGajN3d0N2bm5zenV6N2hHUDgxRWExYWdaRTBqc1VoS3dGQzdfZVNPV3BoOEYzTUJFaVlySHJPZ1VsZHZoWE9YS2IwQ2dhZTU0ZXZJTl9kRkpDVEVZdFhaT28xSV9NZHR2ZnBUdTFxYVJTeEVibGVjSDh1S1c5ZDYzOGQ0T3p0YkhFUHgtZXNHZzhuMFRzSmZ5YmlJ?oc=5",
-   "source": "Telegraph India",
-   "pubDate": "2026-11-21T07:58:26.000Z",
-   "tags": [
-    "case",
-    "court",
-    "summon"
-   ],
-   "politicianId": "LokSabha2024-9673",
-   "politicianName": ""
-  },
-  {
-   "title": "Full text of the inaugural Cornelia Sorabji Memorial Lecture delivered by Supreme Court Justice B.V. Nagarathna",
-   "link": "https://www.thehindu.com/news/national/full-text-of-the-inaugural-cornelia-sorabji-memorial-lecture-delivered-by-supreme-court-justice-bv-nagarathna/article71727322.ece",
+   "title": "Man sentenced to 10 year rigorous imprisonment for raping home-alone woman",
+   "link": "https://www.thehindu.com/news/cities/Mangalore/man-sentenced-to-10-year-rigorous-imprisonment-for-raping-home-alone-woman/article71730701.ece",
    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-11-21T07:51:51.000Z",
+   "pubDate": "2026-11-22T07:36:11.000Z",
+   "tags": [
+    "sentenc"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "Tamil Nadu Files Review Petition Against Supreme Court Order Allowing Karthigai Lamp Lighting At Thiruparankundram Deepathoon",
+   "link": "https://www.livelaw.in/top-stories/tamil-nadu-files-review-petition-against-supreme-court-order-allowing-karthigai-lamp-lighting-at-thiruparankundram-deepathoon-559492",
+   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
+   "pubDate": "2026-11-22T07:36:05.000Z",
    "tags": [
     "court",
     "supreme court"
-   ],
-   "politicianId": "LokSabha2024-9708",
-   "politicianName": ""
-  },
-  {
-   "title": "Police withdraw arrangements complying with prohibitory order against Sonam Wangchuk in Leh",
-   "link": "https://www.thehindu.com/news/national/ladakh/police-withdraw-arrangements-complying-with-prohibitory-order-against-sonam-wangchuk-in-leh/article71727384.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-11-21T07:48:28.000Z",
-   "tags": [
-    "police"
    ],
    "politicianId": "LokSabha2024-9708",
    "politicianName": ""
