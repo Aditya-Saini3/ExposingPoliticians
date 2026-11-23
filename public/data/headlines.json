@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T08:04:00.539Z",
+ "updatedAt": "2026-11-23T09:10:52.118Z",
  "counts": {
   "LokSabha2024-9708": 60,
   "LokSabha2024-9677": 60,
@@ -7,47 +7,38 @@
  },
  "items": [
   {
-   "title": "Why 21-day delay in FIR? Congress raises fresh questions over Ram temple donation theft case",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnYtRHh3LWxlNno2QTcxNVRFbkI0ZHg4RThwSTJpa2owUG5tVEdXV0pDT2lTeTZQeEdoRkZBcVFTLVlhTmR2Ql9KUVRqLUlxUzkxTXg3SFVSNldIeHZFVGRvRWVZQjRfOWd5cEVIQ3dra0MwZXVTTjh0Z183dFQtamNkVGRVSlNlZHhJVnYwaENST0pzNWl3amlOTUNMZF9jRGQxMlpJTTR6ZlpBVEVYYmctU21kRWdOb2JKVG5qYWRUOHlQ0gHKAUFVX3lxTE4tLVVCd2RYSXRDQ050bHFtZVQxaWJ6a1haUHBUQUpoZGpuUmpNWUVidEFKZXJuREVXSlZ6T3hxNWF3b1Q0ZW1tZV9mek9uSnNLM09Wa1U5VGFycE02dXhIa0hBNFg4Z2N1alZDRGtXUjEzS2NSbEtoajFFUVpTTGFza0dIRFFKakl6N3h4ZWdBczJmaU9qcGVDaUttQThON1VJV2ItdXJrbWlfM3V3QTgtMUdYcHc5Qjk5OHRFOEh0Rm9oZlRQMVRlVmc?oc=5",
-   "source": "India Today",
-   "pubDate": "2026-11-22T07:50:25.000Z",
-   "tags": [
-    "case",
-    "fir"
-   ],
-   "politicianId": "LokSabha2024-9673",
-   "politicianName": ""
-  },
-  {
-   "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
-   "link": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+   "title": "High Court relief sparks celebrations as 16 suspended SSUS students return to Kalady University campus in victory march",
+   "link": "https://www.thehindu.com/news/national/kerala/high-court-relief-sparks-celebrations-as-16-suspended-ssus-students-return-to-kalady-university-campus-in-victory-march/article71733609.ece",
    "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-11-22T07:47:32.000Z",
-   "tags": [
-    "arrest"
-   ],
-   "politicianId": "LokSabha2024-9708",
-   "politicianName": ""
-  },
-  {
-   "title": "Man sentenced to 10 year rigorous imprisonment for raping home-alone woman",
-   "link": "https://www.thehindu.com/news/cities/Mangalore/man-sentenced-to-10-year-rigorous-imprisonment-for-raping-home-alone-woman/article71730701.ece",
-   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
-   "pubDate": "2026-11-22T07:36:11.000Z",
-   "tags": [
-    "sentenc"
-   ],
-   "politicianId": "LokSabha2024-9708",
-   "politicianName": ""
-  },
-  {
-   "title": "Tamil Nadu Files Review Petition Against Supreme Court Order Allowing Karthigai Lamp Lighting At Thiruparankundram Deepathoon",
-   "link": "https://www.livelaw.in/top-stories/tamil-nadu-files-review-petition-against-supreme-court-order-allowing-karthigai-lamp-lighting-at-thiruparankundram-deepathoon-559492",
-   "source": "Supreme Court - High Court - Legal Breaking News | Live Law India",
-   "pubDate": "2026-11-22T07:36:05.000Z",
+   "pubDate": "2026-11-23T09:09:06.000Z",
    "tags": [
     "court",
-    "supreme court"
+    "high court"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "Calcutta High Court extends interim protection to TMC MP Abhishek Banerjee till February 26 in six criminal cases",
+   "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-extends-interim-protection-to-tmc-mp-abhishek-banerjee-till-february-26-in-six-criminal-cases/article71734029.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-11-23T09:05:05.000Z",
+   "tags": [
+    "case",
+    "court",
+    "high court"
+   ],
+   "politicianId": "LokSabha2024-9708",
+   "politicianName": ""
+  },
+  {
+   "title": "NCERT to probe complaints of blurred text in school textbooks, assures corrective action",
+   "link": "https://www.thehindu.com/news/national/ncert-to-probe-complaints-of-blurred-text-in-school-textbooks-assures-corrective-action/article71733991.ece",
+   "source": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+   "pubDate": "2026-11-23T08:56:24.000Z",
+   "tags": [
+    "probe",
+    "complaint"
    ],
    "politicianId": "LokSabha2024-9708",
    "politicianName": ""
